@@ -6,10 +6,6 @@ body{
     background: var(--tg-theme-bg-color);
 }
 
-.container{
-    max-width: 390px;
-}
-
 .inner{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
